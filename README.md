@@ -1,3 +1,12 @@
+#Advice on how to live bevore serious information:
+while(!dead){
+eat()
+#sleep()
+code()
+}
+
+
+
 # The GECO R project template
 
 This is a github template for a GECO R project repository. This template can
